@@ -31,14 +31,14 @@ try:
 	def Banner():
 		Tik(''+C+'''
 	
- _____                         _____               
-/  ___|                       /  ___|              
-\ `--. _ __   __ _ _ __ ___   \ `--. _ __ ___  ___ 
- `--. \ '_ \ / _` | '_ ` _ \   `--. \ '_ ` _ \/ __|
+_____ _____ 
+/ ___| / ___| 
+\ `--. _ __ __ _ _ __ ___ \ `--. _ __ ___ ___ 
+`--. \ '_ \ / _` | '_ ` _ \ `--. \ '_ ` _ \/ __|
 /\__/ / |_) | (_| | | | | | | /\__/ / | | | | \__ \\
 \____/| .__/ \__,_|_| |_| |_| \____/|_| |_| |_|___/
-      | |                                          
-      |_|  '''+W+'Creator : ./Fukur0\n\t\tYT : Jejak Cyber')
+| | 
+|_| '''+W+'Creator : ./Fukur0\n\t\tYT : Jejak Cyber')
 
 	def MapClub(Phone, Amount):
 		for _ in range(Amount):
@@ -265,11 +265,11 @@ try:
 		Tik(C+50*'=')
 		Tik(C+'['+W+'7'+C+']'+W+' SPAM OTP PHD'+W+'\t3X / 1 HARI'+W+'\tACTIVE'+H+' \xE2\x9C\x94')
 		Tik(C+50*'=')
-		Tik(C+'['+W+'8'+C+']'+W+' COMBO ALL 3 OTP'+K+'\t    -\t\t'+W+'ACTIVE'+H+' \xE2\x9C\x94')
+		Tik(C+'['+W+'8'+C+']'+W+' COMBO ALL 3 OTP'+K+'\t -\t\t'+W+'ACTIVE'+H+' \xE2\x9C\x94')
 		Tik(C+50*'=')
-		Tik(C+'['+W+'9'+C+']'+W+' REPORT BUG'+K+'\t\t    -\t\t'+W+'ACTIVE'+H+' \xE2\x9C\x94')
+		Tik(C+'['+W+'9'+C+']'+W+' REPORT BUG'+K+'\t\t -\t\t'+W+'ACTIVE'+H+' \xE2\x9C\x94')
 		Tik(C+50*'=')
-		Tik(C+'['+W+'X'+C+']'+W+' EXIT / KELUAR'+K+'\t    -\t\t'+W+'ACTIVE'+H+' \xE2\x9C\x94')
+		Tik(C+'['+W+'X'+C+']'+W+' EXIT / KELUAR'+K+'\t -\t\t'+W+'ACTIVE'+H+' \xE2\x9C\x94')
 		print
 		print
 		try:
@@ -351,7 +351,7 @@ try:
 				Phone = int(Phone) 
 			
 				Amount = input(''+W+'\tJUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
-				if Amount > 99999:
+				if Amount > 5:
 					print
 					print(W+'\tJANGAN BANYAK BANYAK KALO GAK'+C+'\n\tMAU TOOLS INI MATI'+W+' ^_^')
 					print
@@ -400,7 +400,7 @@ try:
 				Phone = int(Phone) 
 			
 				Amount = input(''+W+'\tJUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
-				if Amount > 99999:
+				if Amount > 5:
 					print
 					print(W+'\tJANGAN BANYAK BANYAK KALO GAK'+C+'\n\tMAU TOOLS INI MATI'+W+' ^_^')
 					print
@@ -449,7 +449,7 @@ try:
 				Phone = int(Phone) 
 			
 				Amount = input(''+W+'\tJUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
-				if Amount > 99999:
+				if Amount > 10:
 					print
 					print(W+'\tJANGAN BANYAK BANYAK KALO GAK'+C+'\n\tMAU TOOLS INI MATI'+W+' ^_^')
 					print
@@ -498,7 +498,7 @@ try:
 				Phone = int(Phone) 
 			
 				Amount = input(''+W+'\tJUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
-				if Amount > 99999:
+				if Amount > 5:
 					print
 					print(W+'\tUDAH LEWAT LIMIT ITU JUMLAHNYA'+C+'^_^')
 					print
@@ -547,7 +547,7 @@ try:
 				Phone = int(Phone) 
 			
 				Amount = input(''+W+'\tJUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
-				if Amount > 99999:
+				if Amount > 5:
 					print
 					print(W+'\tUDAH LEWAT LIMIT ITU JUMLAHNYA'+C+'^_^')
 					print
@@ -714,4 +714,10 @@ except ImportError:
 	sleep(1.5)
 	os.system('clear')
 	
+if __name__ == '__main__':
+	print(C+'Subscribe YT'+W+' Gua Dlu Ya Su !'+C+' :V')
+	sleep(2)
+	os.system('clear')
+	os.system('xdg-open https://www.youtube.com/channel/UCzsADl8XRJeZXJ6CKZLX5KQ')
+	sleep(7)
 	Spam()
