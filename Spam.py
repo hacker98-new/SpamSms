@@ -302,7 +302,7 @@ try:
 				Phone = int(Phone) 
 			
 				Amount = input(''+W+'\tJUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
-				if Amount > 10:
+				if Amount > 99999:
 					print
 					print(W+'\tJANGAN BANYAK BANYAK KALO GAK'+C+'\n\tMAU TOOLS INI MATI'+W+' ^_^')
 					print
@@ -351,7 +351,7 @@ try:
 				Phone = int(Phone) 
 			
 				Amount = input(''+W+'\tJUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
-				if Amount > 5:
+				if Amount > 99999:
 					print
 					print(W+'\tJANGAN BANYAK BANYAK KALO GAK'+C+'\n\tMAU TOOLS INI MATI'+W+' ^_^')
 					print
@@ -400,7 +400,7 @@ try:
 				Phone = int(Phone) 
 			
 				Amount = input(''+W+'\tJUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
-				if Amount > 5:
+				if Amount > 99999:
 					print
 					print(W+'\tJANGAN BANYAK BANYAK KALO GAK'+C+'\n\tMAU TOOLS INI MATI'+W+' ^_^')
 					print
@@ -449,7 +449,7 @@ try:
 				Phone = int(Phone) 
 			
 				Amount = input(''+W+'\tJUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
-				if Amount > 10:
+				if Amount > 99999:
 					print
 					print(W+'\tJANGAN BANYAK BANYAK KALO GAK'+C+'\n\tMAU TOOLS INI MATI'+W+' ^_^')
 					print
@@ -498,7 +498,7 @@ try:
 				Phone = int(Phone) 
 			
 				Amount = input(''+W+'\tJUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
-				if Amount > 5:
+				if Amount > 99999:
 					print
 					print(W+'\tUDAH LEWAT LIMIT ITU JUMLAHNYA'+C+'^_^')
 					print
@@ -547,7 +547,7 @@ try:
 				Phone = int(Phone) 
 			
 				Amount = input(''+W+'\tJUMLAH SPAM'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
-				if Amount > 5:
+				if Amount > 99999:
 					print
 					print(W+'\tUDAH LEWAT LIMIT ITU JUMLAHNYA'+C+'^_^')
 					print
@@ -714,10 +714,4 @@ except ImportError:
 	sleep(1.5)
 	os.system('clear')
 	
-if __name__ == '__main__':
-	print(C+'Subscribe YT'+W+' Gua Dlu Ya Su !'+C+' :V')
-	sleep(2)
-	os.system('clear')
-	os.system('xdg-open https://www.youtube.com/channel/UCzsADl8XRJeZXJ6CKZLX5KQ')
-	sleep(7)
 	Spam()
